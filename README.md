@@ -4,7 +4,7 @@ Decision is a library for making decision trees.
 
 ## What are decision trees?
 
-Decision trees are simply a tree of questions.
+Decision trees are simply trees of questions.
 
 ![Example Decision Tree](http://3.bp.blogspot.com/-d4XcAwYqmXI/UvoIeSCL2AI/AAAAAAAAEow/kzVWaHgg-bo/s1600/dectree_fruit.png)
 
